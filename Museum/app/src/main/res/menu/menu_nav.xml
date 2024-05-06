@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Info"
+        android:id="@+id/musica"
+        android:icon="@drawable/baseline_attribution_24"/>
+    <item android:title="Galeria"
+        android:id="@+id/peliculas"
+        android:icon="@drawable/baseline_aspect_ratio_24" />
+    <item android:title="Historial"
+        android:id="@+id/libros"
+        android:icon="@drawable/baseline_auto_awesome_mosaic_24"/>
+
+</menu>
